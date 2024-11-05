@@ -1,0 +1,42 @@
+C:\Trabajos dotnet\GrpcClient\obj\Debug\net8.0\GrpcClient.csproj.AssemblyReference.cache
+C:\Trabajos dotnet\GrpcClient\obj\Debug\net8.0\GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajos dotnet\GrpcClient\bin\Debug\net8.0\GrpcClient.exe
+C:\Trabajos dotnet\GrpcClient\bin\Debug\net8.0\GrpcClient.deps.json
+C:\Trabajos dotnet\GrpcClient\bin\Debug\net8.0\GrpcClient.runtimeconfig.json
+C:\Trabajos dotnet\GrpcClient\bin\Debug\net8.0\GrpcClient.dll
+C:\Trabajos dotnet\GrpcClient\bin\Debug\net8.0\GrpcClient.pdb
+C:\Trabajos dotnet\GrpcClient\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Trabajos dotnet\GrpcClient\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Trabajos dotnet\GrpcClient\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Trabajos dotnet\GrpcClient\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Trabajos dotnet\GrpcClient\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Trabajos dotnet\GrpcClient\obj\Debug\net8.0\GrpcClient.AssemblyInfoInputs.cache
+C:\Trabajos dotnet\GrpcClient\obj\Debug\net8.0\GrpcClient.AssemblyInfo.cs
+C:\Trabajos dotnet\GrpcClient\obj\Debug\net8.0\GrpcClient.csproj.CoreCompileInputs.cache
+C:\Trabajos dotnet\GrpcClient\obj\Debug\net8.0\GrpcClient.csproj.Up2Date
+C:\Trabajos dotnet\GrpcClient\obj\Debug\net8.0\GrpcClient.dll
+C:\Trabajos dotnet\GrpcClient\obj\Debug\net8.0\refint\GrpcClient.dll
+C:\Trabajos dotnet\GrpcClient\obj\Debug\net8.0\GrpcClient.pdb
+C:\Trabajos dotnet\GrpcClient\obj\Debug\net8.0\GrpcClient.genruntimeconfig.cache
+C:\Trabajos dotnet\GrpcClient\obj\Debug\net8.0\ref\GrpcClient.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\bin\Debug\net8.0\GrpcClient.exe
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\bin\Debug\net8.0\GrpcClient.deps.json
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\bin\Debug\net8.0\GrpcClient.runtimeconfig.json
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\bin\Debug\net8.0\GrpcClient.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\bin\Debug\net8.0\GrpcClient.pdb
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\obj\Debug\net8.0\GrpcClient.csproj.AssemblyReference.cache
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\obj\Debug\net8.0\GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\obj\Debug\net8.0\GrpcClient.AssemblyInfoInputs.cache
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\obj\Debug\net8.0\GrpcClient.AssemblyInfo.cs
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\obj\Debug\net8.0\GrpcClient.csproj.CoreCompileInputs.cache
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\obj\Debug\net8.0\GrpcClient.csproj.Up2Date
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\obj\Debug\net8.0\GrpcClient.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\obj\Debug\net8.0\refint\GrpcClient.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\obj\Debug\net8.0\GrpcClient.pdb
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\obj\Debug\net8.0\GrpcClient.genruntimeconfig.cache
+C:\Trabajos dotnet\Taller 1 grpc\GrpcClient\obj\Debug\net8.0\ref\GrpcClient.dll

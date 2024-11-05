@@ -1,0 +1,68 @@
+C:\Trabajos dotnet\GrpcServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Trabajos dotnet\GrpcServer\bin\Debug\net8.0\appsettings.json
+C:\Trabajos dotnet\GrpcServer\bin\Debug\net8.0\GrpcServer.exe
+C:\Trabajos dotnet\GrpcServer\bin\Debug\net8.0\GrpcServer.deps.json
+C:\Trabajos dotnet\GrpcServer\bin\Debug\net8.0\GrpcServer.runtimeconfig.json
+C:\Trabajos dotnet\GrpcServer\bin\Debug\net8.0\GrpcServer.dll
+C:\Trabajos dotnet\GrpcServer\bin\Debug\net8.0\GrpcServer.pdb
+C:\Trabajos dotnet\GrpcServer\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Trabajos dotnet\GrpcServer\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Trabajos dotnet\GrpcServer\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Trabajos dotnet\GrpcServer\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Trabajos dotnet\GrpcServer\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Trabajos dotnet\GrpcServer\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Trabajos dotnet\GrpcServer\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\GrpcServer.csproj.AssemblyReference.cache
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\GrpcServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\GrpcServer.AssemblyInfoInputs.cache
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\GrpcServer.AssemblyInfo.cs
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\GrpcServer.csproj.CoreCompileInputs.cache
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\GrpcServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\staticwebassets\msbuild.GrpcServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\staticwebassets\msbuild.build.GrpcServer.props
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GrpcServer.props
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GrpcServer.props
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\scopedcss\bundle\GrpcServer.styles.css
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\GrpcServer.csproj.Up2Date
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\GrpcServer.dll
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\refint\GrpcServer.dll
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\GrpcServer.pdb
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\GrpcServer.genruntimeconfig.cache
+C:\Trabajos dotnet\GrpcServer\obj\Debug\net8.0\ref\GrpcServer.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\bin\Debug\net8.0\appsettings.json
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\bin\Debug\net8.0\GrpcServer.exe
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\bin\Debug\net8.0\GrpcServer.deps.json
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\bin\Debug\net8.0\GrpcServer.runtimeconfig.json
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\bin\Debug\net8.0\GrpcServer.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\bin\Debug\net8.0\GrpcServer.pdb
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\GrpcServer.csproj.AssemblyReference.cache
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\GrpcServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\GrpcServer.AssemblyInfoInputs.cache
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\GrpcServer.AssemblyInfo.cs
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\GrpcServer.csproj.CoreCompileInputs.cache
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\GrpcServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\staticwebassets\msbuild.GrpcServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\staticwebassets\msbuild.build.GrpcServer.props
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GrpcServer.props
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GrpcServer.props
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\scopedcss\bundle\GrpcServer.styles.css
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\GrpcServer.csproj.Up2Date
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\GrpcServer.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\refint\GrpcServer.dll
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\GrpcServer.pdb
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\GrpcServer.genruntimeconfig.cache
+C:\Trabajos dotnet\Taller 1 grpc\GrpcServer\obj\Debug\net8.0\ref\GrpcServer.dll
